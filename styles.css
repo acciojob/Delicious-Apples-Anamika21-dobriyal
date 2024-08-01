@@ -1,1 +1,10 @@
 /* your code here */
+button{
+	font-family: sans-serif;
+	background-color: red;
+	color: white;
+	width: 190px;
+	height: 60px;
+	border: 0px;
+	border-radius: 10px;
+}
